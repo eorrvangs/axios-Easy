@@ -1,2 +1,2 @@
 # axiosTiger
-基于axios进行第二次封装;
+基于 vue2  +axios 封装+ 测试环境+预发布+正式环境配置
