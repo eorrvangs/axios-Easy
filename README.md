@@ -1,4 +1,4 @@
-# axios-Easy
+# axios简单的防抖节流，防止多次提交的简单封装
 基于 axios 封装+ vue域名测试环境+预发布+正式环境配置
 封装axios是在目录utils/request下
 utils/api是自己需要调用的api，在components下面有调用例子
