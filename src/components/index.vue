@@ -1,6 +1,6 @@
 <template>
-  <div class="musicbox">
-    <div></div>
+  <div>
+    <div>api</div>
   </div>
 </template>
 <script>

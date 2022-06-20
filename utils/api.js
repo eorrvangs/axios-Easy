@@ -1,4 +1,4 @@
-import request from '@/utils/request';
+import request from './request.js';
 
 export const post = (data) => {
     return request({

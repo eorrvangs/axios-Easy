@@ -9,7 +9,7 @@ const throttle = (config) => {
   let now = Date.now();
   if (config.method == 'post') {
     if (previous) {
-      if (now - previous > 3000) {
+      if (now - previous > 300) {
         previous = now;
       } else {
         config.cancelToken = new CancelToken(c => c('repeat'));
